@@ -5,12 +5,12 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 
 ## Tier 1 - get started
 - [X]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
-- [ ]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
-- [ ]  Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
+- [X]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
+- [X]  Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
 - [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
 - [ ]  Project: Portfolio from the frontend section of FCC  
 - [ ]  Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-- [ ]  Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
+- [X]  Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
 - [ ]  Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
 - [ ]  Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)     
 - [ ]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
@@ -29,16 +29,16 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 - [ ]  Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 - [ ]  Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 - [ ]  Book:  [DOM Enlightenment](http://domenlightenment.com/)    
-- [ ]  Project:  Simon Game from the frontend section of FCC    
+- [X]  Project:  Simon Game from the frontend section of FCC    
 - [ ]  Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
 - [ ]  Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
 - [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)  
-- [ ]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want. 
+- [X]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want. 
 - [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)    
 - [ ]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page  
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
-- [ ]  Project: Build the Pomodoro project from the FCC frontend curriculum
+- [X]  Project: Build the Pomodoro project from the FCC frontend curriculum
 - [ ]  Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation       
 - [ ]  Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.    
 - [ ]  Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript        
