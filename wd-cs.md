@@ -11,7 +11,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Book: [Precalculus](https://openstax.org/details/books/precalculus) or Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) or [Khan Academy](https://www.khanacademy.org/math/precalculus) or thorough knowledge of Precalculus
 - [X]  Course: [Try Git](https://try.github.io/levels/1/challenges/1) and/or How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
 - [ ]  Project: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) - sign up for this now and work through it alongside the rest of the guide.
-- [ ]  Project: take a quick read through the FAQs at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
+- [X]  Project: take a quick read through the FAQs at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
 
 ## Tier 1 - get started
 - [X]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
@@ -65,7 +65,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Course: [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)  
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages  
 - [ ]  Book: [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)  - no longer available - use [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) instead.
-- [ ]  Visit the Angular, React and Vue web pages, work through their tutorials, and get a sense of how they differ and which you prefer. From here on out, try to use one of them on each frontend where it makes sense to do it as a single page app. Lean towards your favorite on most projects, but use each of the other two in at least one project before finishing the guide.
+- [X]  Visit the Angular, React and Vue web pages, work through their tutorials, and get a sense of how they differ and which you prefer. From here on out, try to use one of them on each frontend where it makes sense to do it as a single page app. Lean towards your favorite on most projects, but use each of the other two in at least one project before finishing the guide.
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 - [ ]  Project: Clone Reddit
 - [ ]  Project: Complete all ES6 Katas [here](http://es6katas.org/)
